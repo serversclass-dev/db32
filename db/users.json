@@ -1,1 +1,21 @@
-{}
+{
+  "rahaf": {
+    "username": "rahaf",
+    "password": "bercyt-7fidze-qittyS",
+    "student_type": "علمي",
+    "telegram_user_id": "6782166644",
+    "telegram_username": "roofaayy",
+    "telegram_first_name": "❣️",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_24.jpg",
+    "session_id": "06dde944-3bf3-400a-95bb-e7082ab459ac",
+    "created_at": "2026-05-10T19:31:38.883186",
+    "verified": true,
+    "last_login": "2026-05-10T19:31:50.589326",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "it"
+    ],
+    "server_num": 32
+  }
+}
