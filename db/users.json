@@ -7,14 +7,15 @@
     "telegram_username": "roofaayy",
     "telegram_first_name": "❣️",
     "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_24.jpg",
-    "session_id": "9c0ac928-f939-4ef9-83b3-57990984c880",
+    "session_id": "e3c8d196-28e0-4e3c-81d1-84fb15ddd671",
     "created_at": "2026-05-10T19:31:38.883186",
     "verified": true,
-    "last_login": "2026-05-11T02:46:37.815391",
+    "last_login": "2026-05-13T05:07:18.606640",
     "balance": 0,
     "purchased_subjects": [
       "islamic",
-      "it"
+      "it",
+      "statistics"
     ],
     "server_num": 32
   },
@@ -26,14 +27,16 @@
     "telegram_username": "saifx04",
     "telegram_first_name": "S̶A̶I̶F̶ 𖤍",
     "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_81.jpg",
-    "session_id": "7540436d-b94b-4260-bc2a-fc7e83f2db38",
+    "session_id": "5ef24497-036b-40b5-b622-0e66384c2024",
     "created_at": "2026-05-12T20:55:06.905544",
     "verified": true,
-    "last_login": "2026-05-12T21:26:19.016736",
+    "last_login": "2026-05-13T22:52:37.635700",
     "balance": 0,
     "purchased_subjects": [
       "islamic",
-      "statistics"
+      "statistics",
+      "english",
+      "physics_electric"
     ],
     "server_num": 32
   }
